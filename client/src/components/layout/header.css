@@ -1,0 +1,30 @@
+.contact-btn {
+  border: #cea058 2px solid;
+  background-color: transparent;
+  padding: 0.5rem;
+}
+.contact-btn:hover {
+  background-color: #cea058;
+}
+.navbar-link {
+  font-size: 1rem;
+  font-weight: lighter;
+  margin-left: 0.5rem;
+}
+
+.navbar {
+  background-color: #151515;
+  position: sticky;
+  position: -webkit-sticky;
+  top: 0;
+  z-index: 3;
+
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+.link-container {
+  color: #fff;
+}
+.link-container:hover {
+  color: #e03a3c;
+}
