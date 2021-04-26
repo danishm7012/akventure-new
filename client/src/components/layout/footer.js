@@ -100,34 +100,31 @@ const Footer = () => {
                 </div>
 
                 <div className='col-lg-3 col-md-6 footer-links'>
-                  <h4>Our Services</h4>
+                  <h4>Our Companies</h4>
                   <ul>
-                    <LinkContainer
-                      className='link-container'
-                      to='/services/ecommerce-business-learnings'
-                    >
+                    <LinkContainer className='link-container' to='/almanzal'>
                       <li>
-                        <i className='fas fa-chevron-right'></i> E-Commerce
-                        Business Learnings
+                        <i className='fas fa-chevron-right'></i> Al Manzal Real
+                        Estate
                       </li>
                     </LinkContainer>
-                    <LinkContainer
-                      className='link-container'
-                      to='/services/digital-marketing'
-                    >
+                    <LinkContainer className='link-container' to='/nam-globle'>
                       <li>
                         <i className='fas fa-chevron-right'></i>
-                        Digital Marketing
+                        NAM Global UAE
+                      </li>
+                    </LinkContainer>
+                    <LinkContainer className='link-container' to='/trusticon'>
+                      <li>
+                        <i className='fas fa-chevron-right'></i>
+                        trusticon Real Estate
                       </li>
                     </LinkContainer>
 
-                    <LinkContainer
-                      className='link-container'
-                      to='/services/digital-marketing'
-                    >
+                    <LinkContainer className='link-container' to='/chilternTNT'>
                       <li>
-                        <i className='fas fa-chevron-right'></i> Education
-                        Services
+                        <i className='fas fa-chevron-right'></i> Chiltern
+                        Travels & Tours
                       </li>
                     </LinkContainer>
                   </ul>

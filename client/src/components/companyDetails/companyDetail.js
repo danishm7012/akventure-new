@@ -1,12 +1,14 @@
 import React, { useState, useEffect } from 'react'
 import companies from '../../companiesData/national'
-import { Link } from 'react-router-dom'
+import { useHistory } from 'react-router-dom'
 import Meta from '../common/Meta'
 import { Container, Row, Col, Button } from 'react-bootstrap'
 import Aos from 'aos'
 import './Banner.css'
 
 const CompanyDetail = ({ match }) => {
+  //get brower history
+  let history = useHistory()
   const companyId = match.params._id
   const [Company, setCompany] = useState({})
   Aos.init({ duration: 2000, offset: 300 })
@@ -74,29 +76,15 @@ const CompanyDetail = ({ match }) => {
         </div>
       </div>
       <div className='overview container'>
-        {Company._id === 'longHuiVentures' ||
-        Company._id === 'fenghuangElevator' ? (
-          <Link to={`/`}>
-            <Button
-              variant='outline-dark'
-              size='sm'
-              style={{ fontSize: 16, float: 'left' }}
-            >
-              <i class='fas fa-caret-left'></i> Back
-            </Button>
-          </Link>
-        ) : (
-          <Link to={`/services/${Company.category}`}>
-            <Button
-              variant='outline-dark'
-              size='sm'
-              style={{ fontSize: 16, float: 'left' }}
-            >
-              <i class='fas fa-caret-left'></i> Back
-            </Button>
-          </Link>
-        )}
-
+        <Button
+          variant='outline-dark'
+          size='sm'
+          className='my-2'
+          onClick={() => history.goBack()}
+          style={{ fontSize: 16, float: 'left' }}
+        >
+          <i class='fas fa-caret-left'></i> Back
+        </Button>
         <h4> Overview</h4>
         <p>{Company.description}</p>
       </div>
