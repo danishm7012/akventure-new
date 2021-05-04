@@ -17,7 +17,7 @@ const Footer = () => {
                         <img
                           src='/images/logos/logo.png'
                           className='d-inline-block align-top '
-                          alt='Paradise Group of Companies'
+                          alt='AK Venture'
                           height='auto'
                           width='200'
                         />
@@ -36,28 +36,31 @@ const Footer = () => {
                     <br />
                     <div class='social-links mt-3'>
                       <a
-                        href='https://www.facebook.com/Learning-Business-Globe-110291561146464'
+                        href='https://www.facebook.com/AK-Ventures-101283075466980'
                         target='blank'
                       >
                         <i className='fab fa-facebook-f'></i>
                       </a>
-                      <a
-                        href='https://twitter.com/BussinessGlobe'
-                        target='blank'
-                      >
+                      <a href='https://twitter.com/ventures_ak' target='blank'>
                         <i className='fab fa-twitter'></i>
                       </a>
                       <a
-                        href='https://www.linkedin.com/in/lb-globe-15411a20a/'
+                        href='https://www.linkedin.com/in/ak-ventures-95b309211/'
                         target='blank'
                       >
                         <i className='fab fa-linkedin-in'></i>
                       </a>
                       <a
-                        href='https://www.instagram.com/lbglobe/'
+                        href='https://www.instagram.com/akventures971/'
                         target='blank'
                       >
                         <i className='fab fa-instagram'></i>
+                      </a>
+                      <a
+                        href='https://www.pinterest.com/akventures971'
+                        target='blank'
+                      >
+                        <i className='fab fa-pinterest'></i>
                       </a>
                       <a href='/'>
                         <i className='fas fa-globe'></i>
