@@ -43,6 +43,11 @@ const CompanyDetail = ({ match }) => {
             </span>{' '}
             {Company.phoneNo}
           </p>
+          <a target='blank' href={Company.website}>
+            <Button variant='success' className='mb-2'>
+              <i className='fas fa-globe'></i> Visit Website
+            </Button>
+          </a>
           <div class='logos'>
             <a target='blank' href={Company.facebook}>
               <i
@@ -68,9 +73,6 @@ const CompanyDetail = ({ match }) => {
                 className='fab fa-instagram'
                 Style='background-color: #3f729b'
               ></i>
-            </a>
-            <a target='blank' href={Company.website}>
-              <i className='fas fa-globe' Style='background-color: #0e90b8'></i>
             </a>
           </div>
         </div>

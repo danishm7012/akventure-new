@@ -6,31 +6,29 @@ function aboutUs() {
   return (
     <div id='about' className='section about'>
       <Container>
+        <h3>About Us</h3>
         <Row>
           <Col lg={5} md={5} sm={6}>
-            <h3>About Us</h3>
             <p>
-              AKVentures is a group of companies which deals in al over the
-              United Arab Emirates and have following sister concern companies:
-              Al Manzal, Chiltern travel & tours, NAM Global and Trusticon.
+              AKVentures is a group of companies that deals all over the United
+              Arab Emirates and has the following sister concern companies: Al
+              Manzal, Trust Icon, NAM Global, and Chiltern Travel & Tours.
               <br />
-              We were honored to actively contribute to the completion of medium
-              and large projects and to expand our field of work inside and
-              outside Iraq to keep pace with global investment and trade growth
-              and regional contracting as an extension of the parent company in
-              DUBAI. In addition, we have more than one commercial agency from
-              international companies with regard to trade in Real state ,
-              Property management, tourism industry and online ecommerce LMS.
+              We are actively looking forward to contributing to the completion
+              and expanding our work field to keep pace with global investment
+              and trade growth in UAE. Working under one name, AKVentures, these
+              companies deal in the Real Estate, Property Management, Tourism
+              Industry, Import, and Export.
               <br />
               We are proud of all the work teams within the company. We consider
               that the human staff is the secret of our success and the image
-              that is embedded in the minds of our clients, whether it comes to
-              administrators, drivers or the rest of the workers in the various
-              departments of the company, so we were keen to define strict
-              standards during employment in the company, so we required the
-              most substantial evidence. And long experiences, and we made sure
-              to link with continuous training as a way to keep abreast of the
-              developments in the profession.
+              embedded in our clients' minds, whether it comes to
+              administrators, drivers, or the rest of the workers in the
+              company's various departments. We are keen to define strict
+              standards during employment in the company. We require the most
+              substantial evidence and long experiences, and we make sure to
+              link all of the above with continuous training to keep abreast of
+              the developments in the profession.
             </p>
           </Col>
           <Col lg={7} md={7} sm={6}>

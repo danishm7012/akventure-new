@@ -120,7 +120,7 @@ const Footer = () => {
                     <LinkContainer className='link-container' to='/trusticon'>
                       <li>
                         <i className='fas fa-chevron-right'></i>
-                        trusticon Real Estate
+                        Trusticon Real Estate
                       </li>
                     </LinkContainer>
 
@@ -128,6 +128,11 @@ const Footer = () => {
                       <li>
                         <i className='fas fa-chevron-right'></i> Chiltern
                         Travels & Tours
+                      </li>
+                    </LinkContainer>
+                    <LinkContainer className='link-container' to='/chilternTNT'>
+                      <li>
+                        <i className='fas fa-chevron-right'></i> ProGcc Services
                       </li>
                     </LinkContainer>
                   </ul>
@@ -154,8 +159,8 @@ const Footer = () => {
                 <div class='col-lg-4 col-md-4 col-sm-12'>
                   <p>
                     <br />
-                    <span className='office-name'>Dubai Office:</span> Park Lane
-                    Plaza, 12th Floor, Office No. 1213, Down Town, Dubai UAE.
+                    <span className='office-name'>UAE Office:</span> Park Lane
+                    Plaza, 12th Floor, Office No. 1213, Business Bay, Dubai UAE.
                     P.O. BOX 415253 <br />
                     <br />
                     <strong>
@@ -174,7 +179,7 @@ const Footer = () => {
                 <div class='col-lg-4 col-md-4 col-sm-12'>
                   <p>
                     <br />
-                    <span className='office-name'>London Office:</span> London
+                    <span className='office-name'>UK Office:</span> London
                     Office: 3rd Floor, 244 Edgware Road, London W2 1DS, UK.{' '}
                     <br />
                     <br />
@@ -188,8 +193,8 @@ const Footer = () => {
                 <div class='col-lg-4 col-md-4 col-sm-12'>
                   <p>
                     <br />
-                    <span className='office-name'>Lahore Office:</span> 2nd
-                    Floor MB-269, DHA phase 6, Lahore, Pakistan.
+                    <span className='office-name'>PAK Office:</span> 2nd Floor
+                    MB-269, DHA phase 6, Lahore, Pakistan.
                     <br />
                     <br />
                     <strong>

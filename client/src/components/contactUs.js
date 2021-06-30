@@ -57,14 +57,14 @@ function contactUs() {
                 <i class='fas fa-map-marker-alt'></i>
                 <h4>Location:</h4>
                 <p>
-                  <span className='office-heading'>Dubai Office:</span> Park
-                  Lane Plaza, 12th Floor, Office No. 1213, Down Town, Dubai UAE.
+                  <span className='office-heading'>UAE Office:</span> Park Lane
+                  Plaza, 12th Floor, Office No. 1213, Business Bay, Dubai UAE.
                   P.O. BOX 415253
                   <br />
-                  <span className='office-heading'>London Office:</span> 3rd
-                  Floor, 244 Edgware Road, London W2 1DS, UK.
+                  <span className='office-heading'>UK Office:</span> 3rd Floor,
+                  244 Edgware Road, London W2 1DS, UK.
                   <br />
-                  <span className='office-heading'>Lahore Office:</span> Office
+                  <span className='office-heading'>PAK Office:</span> Office
                   No.18, Naqi Arcade, 71-The Mall Road, Lahore, Pakistan.
                 </p>
               </div>
@@ -79,15 +79,15 @@ function contactUs() {
                 <i className='fas fa-phone'></i>
                 <h4>Call:</h4>
                 <p>
-                  <span className='office-heading'>Dubai Office:</span> +971 58
+                  <span className='office-heading'>UAE Office:</span> +971 58
                   1439463
                 </p>
                 <p>
-                  <span className='office-heading'>London Office:</span> +44
-                  7391 758 721
+                  <span className='office-heading'>UK Office:</span> +44 7391
+                  758 721
                 </p>
                 <p>
-                  <span className='office-heading'>Lahore Office:</span> +92 423
+                  <span className='office-heading'>PAK Office:</span> +92 423
                   2801559
                 </p>
               </div>

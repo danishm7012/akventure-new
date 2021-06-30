@@ -7,44 +7,46 @@ const Companies = () => {
     <section id='companies' class='services section'>
       <div class='container' data-aos='fade-up'>
         <div class='section-title pt-4'>
-          <h2>Companies</h2>
-          <p>Check our Companies</p>
+          <h2>Our Companies</h2>
+          <p>Click each one for details</p>
         </div>
 
         <div class='row'>
           <SingleCompany
             _id='almanzal'
             name='Al Manzal Real Estate'
-            detail='UAE being the international hub of trade provides best import
-                and export opportunities with attracting infrastructure such as
-                buildings, roads, fast operation processing, etc.'
-            image='/images/banners/al-manzal-web-banner.jpg'
+            detail='ALMANZAL exclusively is a Real Estate Business, and its operations are running globally. We provide our clients the best investment opportunities in the Real Estate sector like Buying, Selling, Short & Long Run Investments, JVs in Construction & Development activities, Commercial & Residential smart buying, OTG and Off Plans, Distress buying, Bulk Buying of Villas, Penthouse & Farmhouses, Whole Commercial & Residential Buildings, Office spaces.'
+            image='/images/Banners/al-manzal-web-banner.jpg'
           />
           <SingleCompany
             _id='trusticon'
             name='Trusticon Real Estate'
-            detail='At Chiltern traveling and tourism, our effective associations
-                and accomplice inns are our assurance that we will discover you
-                the ideal convenience from a wide reach with the best rates
-                accessible and take into account the entirety of your
-                necessities for an exceptional occasion insight.'
-            image='/images/banners/trust-icon-web-banner.jpg'
+            detail='TRUST ICON supports its customers deal with their land value and venture needs across geologies and land structures. Since we started, our goal has been to construct market-driving new homes in areas prepared for recovery – where individuals would need to purchase, either to live or contribute, at profoundly serious costs.'
+            image='/images/Banners/trust-icon-web-banner.jpg'
           />
           <SingleCompany
             _id='chilternTNT'
             name='Chiltern Travel & Tours'
-            detail='The role of digital media marketing and new automated supporting
-                tools in successful business increase manifold in a few years.
-                It seems permanent phenomena in the future as well.'
-            image='/images/banners/chiltern-web-banner.jpg'
+            detail='At Chiltern traveling and tourism, our effective associations
+            and accomplice inns are our assurance that we will discover you
+            the ideal convenience from a wide reach with the best rates
+            accessible and take into account the entirety of your
+            necessities for an exceptional occasion insight.'
+            image='/images/Banners/chiltern-web-banner.jpg'
           />
           <SingleCompany
-            _id='nam-globle'
-            name='NAM Globle UAE'
-            detail='We Provide 52+ Cooperate Services like Document processing in
+            _id='ProGcc'
+            name='ProGcc UAE'
+            detail='We Provide 52+ Corporate Services like Document processing in
                 immigration, employment and other government departments,
-                Business sponser services, Tourism license services, etc.'
-            image='fas fa-shield-alt'
+                Business sponser services, Tourism license services, etc. When it comes to delivering PRO Services in UAE, our team of expert Consultants handhold you throughout the required PRO Service from the beginning to the end.'
+            image='/images/Banners/pro.jpg'
+          />
+          <SingleCompany
+            _id='NamGlobal'
+            name='NAM Global'
+            detail='NAM Global deals in all sorts of import and export of leather products, organic products, surgical instruments, clothes, textiles, sportswear, sports goods, etc. Our warehouses are in Dubai, Sharjah, & Ajman. '
+            image='/images/Banners/namglobal.jpeg'
           />
         </div>
       </div>

@@ -48,11 +48,7 @@ function header() {
                   <Nav.Link className='navbar-link'>Our Companies</Nav.Link>
                 </LinkContainer>
               </Link>
-              <Link to='interest'>
-                <LinkContainer to='/'>
-                  <Nav.Link className='navbar-link'>PORTFOLIO</Nav.Link>
-                </LinkContainer>
-              </Link>
+
               <Link to='/'>
                 <LinkContainer to='/info/blogs'>
                   <Nav.Link className='navbar-link' active>
