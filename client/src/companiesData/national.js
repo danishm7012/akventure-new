@@ -7,9 +7,8 @@ const NationalCompanies = [
     We also specialize in Investments in Industrial and special Economic zones. We also offer Real Estate Appraisal, Consultancy, and Maintenance Services. Short rentals, Holidays, or Vacation rentals are an essential part of our offered services.
     Operating and securing Real Estate in UAE mega projects of well-reputed Property Developers for our worldwide clientage, including end-users and investors, is also part of our daily engagements. 
     `,
-    vision: `Our real estate projects of UAE are marketed to GCC countries including Iran, Iraq, Bahrain, Saudi Arabia, etc. and other parts of the world. It is a golden opportunity for our UAE clients and surrounding clients to invest in their money. Advanced infrastructure and innovative business ideas for our clients is our ultimate goal. We provide long-term plans that lead to bright futures.`,
-    mission:
-      'We believe in safe hands investments of our clients and more appropriate and easy ways of investments with complete documentation facilities. Import export globally with accessible opportunities is what we offer to our clients. Our investment plans are equipped with further planning of attaining passports and other perks of these countries.',
+    vision: `Our Vision is to promote our customers' comfort. We aspire to be the most trusted real estate business leader in UAE, especially Dubai, solving the traditional real estate challenges through continuous innovation and becoming a one-stop shop for our customers.`,
+    mission: `ALMANZAL aims to deliver digital real estate solutions to property hunters in UAE, especially Dubai, through better collaboration driven by technology and connectivity. Our mission is to benefit from technology to enable real estate professionals to collaborate efficiently in delivering exceptional consumer experiences.  We strive to enhance the scope of living in a modern state-of-the-art developed living environment providing prime benefits in terms of living facilities, security, parks, gyms, and convenience of amenities in a healthy, educated, and secured atmosphere.`,
     address:
       'Dubai Office: Park Lane Plaza, 12th Floor, Office No. 1213, Business Bay, Dubai UAE. P.O. BOX 415253',
     address2: 'London Office: 3rd Floor, 244 Edgware Road, London W2 1DS, UK.',
@@ -36,8 +35,8 @@ const NationalCompanies = [
     TRUST ICON supports its customers deal with their land value and venture needs across geologies and land structures. Since we started, our goal has been to construct market-driving new homes in areas prepared for recovery – where individuals would need to purchase, either to live or contribute, at profoundly serious costs.
     The organization centers around building improvements to give moderate homes to proprietor occupiers, financial backers, and guardians.
     `,
-    mission: 'MISSING',
-    vision: 'MISSING',
+    mission: `Trusticon aims to deliver digital real estate solutions to property hunters in UAE, especially Dubai, through better collaboration driven by technology and connectivity. Our mission is to benefit from technology to enable real estate professionals to collaborate efficiently in delivering exceptional consumer experiences.  We strive to enhance the scope of living in a modern state-of-the-art developed living environment providing prime benefits in terms of living facilities, security, parks, gyms, and convenience of amenities in a healthy, educated, and secured atmosphere.`,
+    vision: `Our Vision is to promote our customers' comfort. We aspire to be the most trusted real estate business leader in UAE, especially Dubai, solving the traditional real estate challenges through continuous innovation and becoming a one-stop shop for our customers.`,
     address:
       'Dubai Office: Park Lane Plaza, 12th Floor, Office No. 1213, Business Bay, Dubai UAE. P.O. BOX 415253',
     address2: 'London Office: 3rd Floor, 244 Edgware Road, London W2 1DS, UK.',

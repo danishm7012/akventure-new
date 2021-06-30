@@ -27,7 +27,7 @@ const Services = () => {
         />
         <SingleService
           name='Import and Export'
-          icon='fas fa-bullhorn'
+          icon='fas fa-luggage-cart'
           detail='UAE being the international hub of trade provides best import and export opportunities with attracting infrastructure such as buildings, roads, fast operation processing, etc. We deal in all sorts of import and export of leather products, organic products, surgical instruments, clothes, textiles, sportswear, sports goods, etc.'
         />
         <SingleService

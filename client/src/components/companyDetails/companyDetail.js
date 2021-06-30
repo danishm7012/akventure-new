@@ -103,7 +103,7 @@ const CompanyDetail = ({ match }) => {
               md={5}
               className='mission-vision-inner-div'
             >
-              <h4>Our Visions</h4>
+              <h4>Vision</h4>
               <p>{Company.vision}</p>
             </Col>
           )}
@@ -117,7 +117,7 @@ const CompanyDetail = ({ match }) => {
               md={5}
               className='mission-vision-inner-div'
             >
-              <h4>Our Missions</h4>
+              <h4>Mission</h4>
               <p>{Company.mission}</p>
             </Col>
           )}

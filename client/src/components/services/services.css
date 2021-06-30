@@ -16,7 +16,8 @@
 
 .icon-boxes .icon-box p {
   font-size: 15px;
-  color: #848484;
+  color: #202020;
+  font-weight: 300;
 }
 
 @media (max-width: 1200px) {

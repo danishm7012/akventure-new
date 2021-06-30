@@ -23,7 +23,7 @@
 }
 .company-title p {
   text-align: center;
-  font-weight: 300;
+  font-weight: 500;
   color: azure;
 }
 .logos i {
@@ -40,7 +40,11 @@
 .overview {
   min-height: 40vh;
   padding: 2rem;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
   text-align: center;
+  color: #151515;
 }
 .overview h4 {
   font-size: 1.8rem;
@@ -57,10 +61,15 @@
   max-height: auto;
   min-height: auto;
   padding-left: 6rem;
+  font-size: 1rem;
+  font-weight: 400;
+  letter-spacing: 0.1rem;
 }
 .mission-vision h4 {
   text-align: center;
   color: #eeeeee;
+  font-size: 2rem;
+  padding-bottom: 1rem;
 }
 .mission-vision-inner-div {
   color: azure;

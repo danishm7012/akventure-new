@@ -1,6 +1,9 @@
 .section-title h2 {
   border-bottom: 2px solid #ffc451;
 }
+.section-title p {
+  color: #151515;
+}
 .services .icon-box {
   text-align: center;
   border: 1px solid #ebebeb;
@@ -29,6 +32,8 @@
   line-height: 24px;
   font-size: 14px;
   margin-bottom: 0;
+  color: #151515;
+  font-weight: 400;
 }
 .more-button {
   margin-top: 0.5rem;
