@@ -75,10 +75,10 @@ const NationalCompanies = [
     instagram: 'https://www.instagram.com/chiltern11/',
   },
   {
-    _id: 'NAM Global',
-    name: 'Erevolute UAE',
-    logo: '/images/logos/rUAE.png',
-    image: '/images/Banners/erevolute.jpg',
+    _id: 'nam-global',
+    name: 'NAM Global',
+    logo: '/images/logos/nam.png',
+    image: '/images/Banners/namglobal.jpeg',
     description: `NAM Global deals in all sorts of import and export of leather products, organic products, surgical instruments, clothes, textiles, sportswear, sports goods, etc. Our warehouses are in Dubai, Sharjah, & Ajman. Keeping in view the rise in demand for tTRAhese globally used products, we aim to provide ease to our clientele for getting the needs at their doorsteps. NAM Global re-export local supplies and wholesale products from UAE to international destinations. We are doing the same from Hong Kong, Singapore, Pakistan, and Europe.
     It deals with import and export facilities in various sectors. Fast Tracking processing of operations is part of our work. Huge investments and global clientage are our targets. We have a professional team of cooperative staff that makes our crew distinguished from our competitors. Legalities are our major concern in the import and export business.
     `,

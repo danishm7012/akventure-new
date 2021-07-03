@@ -43,7 +43,7 @@ const Companies = () => {
             image='/images/Banners/pro.jpg'
           />
           <SingleCompany
-            _id='NamGlobal'
+            _id='nam-global'
             name='NAM Global'
             detail='NAM Global deals in all sorts of import and export of leather products, organic products, surgical instruments, clothes, textiles, sportswear, sports goods, etc. Our warehouses are in Dubai, Sharjah, & Ajman. '
             image='/images/Banners/namglobal.jpeg'
