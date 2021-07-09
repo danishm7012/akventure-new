@@ -2,7 +2,7 @@ const NationalCompanies = [
   {
     _id: 'almanzal',
     name: 'Al Manzal Real Estate',
-    image: '/images/Banners/al-manzal-web-banner.jpg',
+    image: '/images/Banners/aAl-Manzal-Detail-Page.jpg',
     description: `ALMANZAL exclusively is a Real Estate Business, and its operations are running globally. We provide our clients the best investment opportunities in the Real Estate sector like Buying, Selling, Short & Long Run Investments, JVs in Construction & Development activities, Commercial & Residential smart buying, OTG and Off Plans, Distress buying, Bulk Buying of Villas, Penthouse & Farmhouses, Whole Commercial & Residential Buildings, Office spaces. 
     We also specialize in Investments in Industrial and special Economic zones. We also offer Real Estate Appraisal, Consultancy, and Maintenance Services. Short rentals, Holidays, or Vacation rentals are an essential part of our offered services.
     Operating and securing Real Estate in UAE mega projects of well-reputed Property Developers for our worldwide clientage, including end-users and investors, is also part of our daily engagements. 
@@ -27,7 +27,7 @@ const NationalCompanies = [
   {
     _id: 'trusticon',
     name: 'Trusticon Real Estate',
-    image: '/images/Banners/trust-icon-web-banner.jpg',
+    image: '/images/Banners/TRUST-ICONl-Detail-Page.jpg',
     description: `TRUST ICON deals with the various kinds of land speculation reserve structures, like buying, selling, leasing, and renting. We are a trust icon in the whole world as:
     –We assist our customers get an ideal cost of a property, through purchasers/vendors.
     – Value the property for rent.
@@ -53,7 +53,7 @@ const NationalCompanies = [
   {
     _id: 'chilternTNT',
     name: 'Chiltern Travel and Tours',
-    image: '/images/Banners/chiltern-web-banner.jpg',
+    image: '/images/Banners/Chilterntntl-Detail-Page.jpg',
     description: `CHILTERN T&T is your best travel companion everywhere in the world. Besides arranging UAE Visit Visas, we will update you about the best tourist attractions in Europe, Asia, Australia, New Zealand, Central & South America. ChilternT&T has special business tours, Economy Tours, Budget Traveling, Adult & Honeymoon Tours, Senior Citizens Tours, Family Tour Packages, Traveling In Groups, Cruise Ship Tours, Desert Safaris, Desert Dinner Tours, Best City Tours, Museum, National Park Tours, Top Tourist Attractions, Island Tours, Traditional & Cultural Tours, Hiking, Scuba Diving, Hotel Bookings, Customized & Personalized Tours, Cross Border Tours, and every type of tour you imagine.`,
     vision:
       'At Chiltern traveling and tourism, our effective associations and accomplice inns are our assurance that we will discover you the ideal convenience from a wide reach with the best rates accessible and take into account the entirety of your necessities for an exceptional occasion insight.',
@@ -78,7 +78,7 @@ const NationalCompanies = [
     _id: 'nam-global',
     name: 'NAM Global',
     logo: '/images/logos/nam.png',
-    image: '/images/Banners/namglobal.jpeg',
+    image: '/images/Banners/NAm-Globell-Detailed-Page.jpeg',
     description: `NAM Global deals in all sorts of import and export of leather products, organic products, surgical instruments, clothes, textiles, sportswear, sports goods, etc. Our warehouses are in Dubai, Sharjah, & Ajman. Keeping in view the rise in demand for tTRAhese globally used products, we aim to provide ease to our clientele for getting the needs at their doorsteps. NAM Global re-export local supplies and wholesale products from UAE to international destinations. We are doing the same from Hong Kong, Singapore, Pakistan, and Europe.
     It deals with import and export facilities in various sectors. Fast Tracking processing of operations is part of our work. Huge investments and global clientage are our targets. We have a professional team of cooperative staff that makes our crew distinguished from our competitors. Legalities are our major concern in the import and export business.
     `,
@@ -103,7 +103,7 @@ const NationalCompanies = [
     _id: 'ProGcc',
     name: 'PRO Sercices',
     logo: '/images/logos/rUAE.png',
-    image: '/images/Banners/pro.jpg',
+    image: '/images/Banners/Prog-CC-Detail-Page.jpg',
     description: `We Provide 52+ Corporate Services like Document processing in
     immigration, employment and other government departments,
     Business sponser services, Tourism license services, etc. When it comes to delivering PRO Services in UAE, our team of expert Consultants handhold you throughout the required PRO Service from the beginning to the end.`,
