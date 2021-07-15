@@ -2,7 +2,7 @@ const NationalCompanies = [
   {
     _id: 'almanzal',
     name: 'Al Manzal Real Estate',
-    image: '/images/Banners/aAl-Manzal-Detail-Page.jpg',
+    image: '/images/Banners/Al-Manzal-Detail-Page.jpg',
     description: `ALMANZAL exclusively is a Real Estate Business, and its operations are running globally. We provide our clients the best investment opportunities in the Real Estate sector like Buying, Selling, Short & Long Run Investments, JVs in Construction & Development activities, Commercial & Residential smart buying, OTG and Off Plans, Distress buying, Bulk Buying of Villas, Penthouse & Farmhouses, Whole Commercial & Residential Buildings, Office spaces. 
     We also specialize in Investments in Industrial and special Economic zones. We also offer Real Estate Appraisal, Consultancy, and Maintenance Services. Short rentals, Holidays, or Vacation rentals are an essential part of our offered services.
     Operating and securing Real Estate in UAE mega projects of well-reputed Property Developers for our worldwide clientage, including end-users and investors, is also part of our daily engagements. 
@@ -78,7 +78,7 @@ const NationalCompanies = [
     _id: 'nam-global',
     name: 'NAM Global',
     logo: '/images/logos/nam.png',
-    image: '/images/Banners/NAm-Globell-Detailed-Page.jpeg',
+    image: '/images/Banners/NAm-Globell-Detailed-Page.jpg',
     description: `NAM Global deals in all sorts of import and export of leather products, organic products, surgical instruments, clothes, textiles, sportswear, sports goods, etc. Our warehouses are in Dubai, Sharjah, & Ajman. Keeping in view the rise in demand for tTRAhese globally used products, we aim to provide ease to our clientele for getting the needs at their doorsteps. NAM Global re-export local supplies and wholesale products from UAE to international destinations. We are doing the same from Hong Kong, Singapore, Pakistan, and Europe.
     It deals with import and export facilities in various sectors. Fast Tracking processing of operations is part of our work. Huge investments and global clientage are our targets. We have a professional team of cooperative staff that makes our crew distinguished from our competitors. Legalities are our major concern in the import and export business.
     `,
