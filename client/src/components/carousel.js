@@ -9,31 +9,31 @@ function carousel() {
           <Carousel.Item style={{ zIndex: 1 }} className='slidersInfo'>
             <img
               className='d-block w-100'
-              src='/images/Sliders/slide1.jpg'
+              src='/images/slide1.jpg'
               alt='First slide'
             />
           </Carousel.Item>
           <Carousel.Item style={{ zIndex: 1 }} className='slidersInfo'>
             <img
               className='d-block w-100'
-              src='/images/Sliders/slide2.jpg'
+              src='/images/slide2.jpg'
               alt='Second slide'
             />
           </Carousel.Item>
           <Carousel.Item style={{ zIndex: 1 }} className='slidersInfo'>
             <img
               className='d-block w-100'
-              src='/images/Sliders/slide3.jpg'
+              src='/images/slide3.jpg'
               alt='Third slide'
             />
           </Carousel.Item>
-          <Carousel.Item style={{ zIndex: 1 }} className='slidersInfo'>
+          {/* <Carousel.Item style={{ zIndex: 1 }} className='slidersInfo'>
             <img
               className='d-block w-100'
-              src='/images/Sliders/slide4.jpg'
+              src='/images/slide4.jpg'
               alt='forth slide'
             />
-          </Carousel.Item>
+          </Carousel.Item> */}
         </Carousel>
       </Col>
     </Row>
