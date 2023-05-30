@@ -13,7 +13,8 @@ app.use(cors())
 app.use(express.json())
 
 // DB Config
-const db = require('./config/keys').mongoURI
+const db =
+  'mongodb+srv://admin1:admin@lbglobe.y2fpo0w.mongodb.net/?retryWrites=true&w=majority'
 
 // Connect to MongoDB
 mongoose
@@ -41,6 +42,6 @@ if (process.env.NODE_ENV === 'production') {
   })
 }
 
-const port = process.env.PORT || 5000
+const port = process.env.PORT || 4000
 
 app.listen(port, () => console.log(`Server running on port ${port}`))
